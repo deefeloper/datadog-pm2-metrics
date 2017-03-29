@@ -16,7 +16,7 @@
     "metrics"
   ],
   "author": "Dave Derichs <dave.fixalot@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/deefeloper/datadog-pm2-metrics/issues"
   },
