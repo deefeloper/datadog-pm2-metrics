@@ -1,0 +1,24 @@
+{
+  "name": "datadog-pm2-metrics",
+  "version": "0.1.0",
+  "description": "A node module to retrieve data from pm2 and send them to the datadog statsd daemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deefeloper/datadog-pm2-metrics.git"
+  },
+  "keywords": [
+    "datadog",
+    "pm2",
+    "metrics"
+  ],
+  "author": "Dave Derichs <dave.fixalot@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deefeloper/datadog-pm2-metrics/issues"
+  },
+  "homepage": "https://github.com/deefeloper/datadog-pm2-metrics#readme"
+}
