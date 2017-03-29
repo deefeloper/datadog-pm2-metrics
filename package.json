@@ -2,7 +2,7 @@
   "name": "datadog-pm2-metrics",
   "version": "0.1.0",
   "description": "A node module to retrieve data from pm2 and send them to the datadog statsd daemon",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
