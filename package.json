@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/deefeloper/datadog-pm2-metrics/issues"
   },
-  "homepage": "https://github.com/deefeloper/datadog-pm2-metrics#readme"
+  "homepage": "https://github.com/deefeloper/datadog-pm2-metrics#readme",
+  "dependencies": {
+    "events": "^1.1.1",
+    "hot-shots": "^4.4.0",
+    "pm2": "^2.4.2",
+    "util": "^0.10.3"
+  }
 }
